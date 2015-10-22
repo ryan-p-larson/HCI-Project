@@ -1,0 +1,40 @@
+Priorities Ranked (context in parantheses)
+[See photos]
+	1. Easy, clean
+	2. Ingredients/recipes
+	3. Healthy
+	3. Stores/resources (in user's perspective)
+	4. Notifications
+	4. Food planner/schedule
+	5. Diet constraints
+	6. Pics/reviews
+	7. Bar scanner / QR scanner
+	8. #/$ (best bang for buck)
+
+Deliverable Outline
+Section 1
+	introduction
+		background info
+		expected users, context: poor families, anyone with device
+		system purpose: User(ingredients) = suggestions
+	Method
+		who/what
+			interview in person
+			observe in wild
+			survey online
+		sessions
+			OJ
+		process
+
+		validate
+	Requirements
+		sort priority
+		Org Heirarchically
+	User Profiles
+Section 2: Competitive asses
+	selection of technologies
+
+Requirements Sorted
+	Must
+	Should
+	Could
